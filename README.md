@@ -5,9 +5,32 @@ Every year, thousands of developers of free and open source software from all ov
 
 ## Talk
 
-My talk: ["Asterisk WebRTC frontier: make client SIP Phone with sipML5 and Janus Gateway."](https://fosdem.org/2019/schedule/event/webrtc_sip_phone/)
+- Slide: coming soon on [SlideShare](https://www.slideshare.net/ale_polidori)
+- Video: coming soon...
+- Schedule: ["Asterisk WebRTC frontier: make client SIP Phone with sipML5 and Janus Gateway"](https://fosdem.org/2019/schedule/event/webrtc_sip_phone/)
 
 ## Client demo: HTML5 SIP Phone WebRTC
 
 Here is the demo of the [HTML5 SIP Phone WebRTC](https://github.com/alepolidori/janus-webrtc-phone) showed during the talk and how to use it with your own private [NethServer VoIP PBX.](https://github.com/alepolidori/howto-nethserver-voip-pbx)
+
+## Related links
+
+- Fosdem 2019: https://github.com/alepolidori/fosdem-2019
+- WebRTC Cloud Phone: https://alepolidori.github.com/janus-webrtc-phone
+- NethCTI 3: https://www.youtube.com/watch?v=wKM-Qe3aEjo&feature=youtu.be&t=17
+- NethVoice: https://www.nethesis.it/nethvoice
+- Nethesis: https://www.nethesis.it
+- sipML5: https://github.com/DoubangoTelecom/sipml5
+- sipML5 Google Group: https://groups.google.com/forum/#!forum/doubango
+- Janus Gateway: https://github.com/NethServer/janus-gateway
+- Janus Gateway Google Group: https://groups.google.com/forum/#!forum/meetecho-janus
+- Meetecho: https://www.meetecho.com
+- NethServer VoIP PBX: http://docs.nethserver.org/en/v7/freepbx.html
+- NethServer Linux: https://www.nethserver.org
+- NethServer Community: https://community.nethserver.org
+- NethServer developer documentation: http://docs.nethserver.org/projects/nethserver-devel/en/latest
+
+
+
+
 
