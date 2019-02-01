@@ -16,6 +16,7 @@ Here is the demo of the [HTML5 SIP Phone WebRTC](https://github.com/alepolidori/
 ## Related links
 
 - Fosdem 2019: https://github.com/alepolidori/fosdem-2019
+- WebRTC blog by Tsahi Levent-Levi: https://bloggeek.me
 - WebRTC Cloud Phone: https://alepolidori.github.com/janus-webrtc-phone
 - NethCTI 3: https://www.youtube.com/watch?v=wKM-Qe3aEjo&feature=youtu.be&t=17
 - NethVoice: https://www.nethesis.it/nethvoice
