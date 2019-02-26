@@ -5,8 +5,8 @@ Every year, thousands of developers of free and open source software from all ov
 
 ## Talk
 
-- Slide: coming soon on [SlideShare](https://www.slideshare.net/ale_polidori)
-- Video: coming soon...
+- [Slide](https://www.slideshare.net/ale_polidori/asterisk-webrtc-frontier-make-client-sip-phone-with-sipml5-and-janus-gateway)
+- [Video](https://fosdem.org/2019/schedule/event/webrtc_sip_phone/)
 - Schedule: ["Asterisk WebRTC frontier: make client SIP Phone with sipML5 and Janus Gateway"](https://fosdem.org/2019/schedule/event/webrtc_sip_phone/)
 
 ## Client demo: HTML5 SIP Phone WebRTC
